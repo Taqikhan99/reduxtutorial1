@@ -1,0 +1,14 @@
+.cart-wrapper{
+    border:1px solid grey;
+    width:300px;
+    height:auto;
+    padding:.5rem;
+    border-radius:.5rem;
+    /* margin: auto; */
+}
+.img-sec{
+    height:200px;
+}
+.img-sec img{
+    height: inherit;
+}
